@@ -1,0 +1,73 @@
+html {
+    background-color: black;
+}
+
+.navbar {
+    background-color: black;
+}
+
+#logo {
+    height: 108px;
+    width: 258px;
+    padding-top: 35px;
+    padding-left: 30px;
+}
+
+#rightnav {
+    color: white;
+    padding-right: 10%;
+    padding-left: 10%;
+    padding-top: 56px;
+    font-size: medium;
+}
+
+ul li {
+    padding-right: 60px;
+}
+
+.div1 {
+    background-color: rgba(0, 0, 0, 0.904);
+    margin-top: 130px;
+    padding: 30px;
+}
+
+.container-fluid {
+    color: white;
+    background-color: black;
+    margin-left: 20px;
+    padding-left: 100px;
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.918);
+    text-align: center;
+    color: white;
+    position: relative;
+    bottom: 0;
+    padding: 10px;
+}
+
+.area {
+    border-left-style: solid;
+    border-color: red;
+    padding-left: 20px;
+}
+
+#social {
+    height: 30px;
+    width: 30px;
+    margin-right: 7px;
+}
+
+.content {
+    padding-left: 50px;
+    padding-right: 70px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#ans {
+    font-size: 15px;
+    padding-left: 22px;
+    padding-bottom: 30px;
+}
